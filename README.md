@@ -7,6 +7,8 @@ The aim is to offer an open source alternative to interested students, and compa
 
 This repository is a work in progress.
 
+## Solvers
+
 ## Global indexing in Python
 Note that global indexing relations have to adapted because in Python, indexing starts at 0.
 
