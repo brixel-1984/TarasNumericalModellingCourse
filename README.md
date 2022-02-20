@@ -7,14 +7,14 @@ The aim is to offer an open source alternative to interested students, and compa
 
 This repository is a work in progress.
 
-# Global indexing in Python
+## Global indexing in Python
 Note that global indexing relations have to adapted because in Python, indexing starts at 0.
 
-So, 
+So in Matlab, 
 
 <img src="https://latex.codecogs.com/svg.image?gk&space;=&space;(j-1)\times&space;Ny&plus;i" title="gk = (j-1)\times Ny+i" /> 
 
-becomes:
+becomes in Python:
 
 <img src="https://latex.codecogs.com/svg.image?gk&space;=&space;(j)\times&space;Ny&plus;i" title="gk = (j)\times Ny+i" />
 
@@ -26,4 +26,4 @@ becomes:
 
 <img src="https://latex.codecogs.com/svg.image?gk&space;=&space;((j)\times&space;Ny&plus;i)\times&space;U" title="gk = ((j)\times Ny+i)\times U" />
 
-# Boundary Conditions in Python
+## Boundary Conditions in Python
