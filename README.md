@@ -10,7 +10,7 @@ This repository is a work in progress.
 ## Solvers
 
 ## Global indexing in Python
-Note that global indexing relations have to adapted because in Python, indexing starts at 0.
+The basic global indexing relations introduced in Taras course to relate the numerical (grid) and algebraic indices assume that indexing starts at 1. Therefore, they have to adapted because in Python, indexing starts at 0.
 
 So in Matlab, 
 
