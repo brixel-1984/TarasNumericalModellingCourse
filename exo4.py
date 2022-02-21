@@ -96,7 +96,6 @@ for j in range(0,Nx):
             R[kpm] = 0
 
 # Solve global matrix
-#S = la.solve(L, R)
 S = spsolve(L,R)
 
 # Reload solution S to geometrical array for omega W()
